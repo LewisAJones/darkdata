@@ -1,16 +1,25 @@
 ---
 title: "A title"
-author: "Authors"
-abstract: "Abstract"
+author: 
+  - "---"
+  - Lewis A. Jones^1^
+  - "---"
+  - "*^1^Centro de Investigación Mariña, Grupo de Ecoloxía Animal, Departamento de Ecoloxía e Bioloxía Animal, Universidade de Vigo, 36310 Vigo, Spain.*"
+  - "---"
+  - "**Corresponding author:** LewisAlan.Jones@uvigo.es"
 format:
   docx:
     reference-doc: template.docx
     fig-dpi: 600
 bibliography: references.bib
-csl: reference-style.csl
+csl: biology-letters.csl
 ---
 
+# Abstract
+
 # Keywords
+
+Dark data, Corals, Red Sea, Latitudinal Diversity Gradient, Macroecology, Palaeobiology
 
 # Introduction
 
@@ -33,5 +42,7 @@ We declare we have no conflict of interest.
 # Data accessibility
 
 # Code accessibility
+
+
 
 # References
